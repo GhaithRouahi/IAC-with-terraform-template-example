@@ -1,0 +1,19 @@
+# Terraform state files
+*.tfstate
+*.tfstate.*
+
+# Terraform variable files
+terraform.tfvars
+
+# Terraform directory
+.terraform/
+
+# AWS credentials
+aws-cred
+
+# Logs
+*.log
+
+# IDE files
+.vscode/
+.idea/
